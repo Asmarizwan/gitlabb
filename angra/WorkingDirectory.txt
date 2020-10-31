@@ -2,5 +2,5 @@ Hello, Git
 Oh noes!
 
 Hello This is Asma 
-Hej! Det är Konflikt :)
 
+Hello! Can you do some changes in this file?
