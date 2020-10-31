@@ -2,5 +2,6 @@ Hello, Git
 Oh noes!
 
 Hello This is Asma 
-Hej! Det är Konflikt :)
-
+Hello!
+Hello!!
+Hello!!!
